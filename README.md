@@ -11,7 +11,7 @@
 
 ## 普通部門架構
 
-* [SQCS Main Cadre Team]()
+* [SQCS Main Cadre Team](https://github.com/SQCS-TW/Community-Structure/blob/main/SQCS%20Main%20Cadre%20Team/Structure.md#%E5%B9%B9%E9%83%A8%E6%9E%B6%E6%A7%8B)
 
 ## 特殊部門架構
 
