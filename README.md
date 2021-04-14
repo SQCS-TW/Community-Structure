@@ -97,4 +97,4 @@
 
 ## 特殊部門架構
 
-* [Discord Guild Bot Team]()
+* [Discord Guild Bot Team](https://github.com/SQCS-TW/Community-Structure/blob/main/Discord%20Guild%20Bot%20Team/Structure.md#discord-bot-team-structure)
