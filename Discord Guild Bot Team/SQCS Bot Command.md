@@ -64,6 +64,10 @@
 
 ---
 
+## deep_freeze.py
+
+### +df mani \<member_id\> \<status\>
+
 修改成員`<member_id>` `fluctlight` 中 `deep_freeze` 參數為 `<status>`
 ```markdown
 <member_id>
