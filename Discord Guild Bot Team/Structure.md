@@ -7,7 +7,7 @@
 ```markdown
 必要條件
     基礎、進階 Discord 功能與使用方式
-    程式語言能力（Python為佳）
+    程式語言能力（Python、Javascript為佳）
 
 加分條件
     Api使用經驗
